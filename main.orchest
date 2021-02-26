@@ -1,0 +1,69 @@
+{
+    "name": "All The Languages",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "3790c6d2-c9a4-4e50-a6ba-f23bff205bba": {
+            "environment": "5850898b-f43c-49a8-b5d6-4bf62f0631c3",
+            "file_path": "My Julia Notebook.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Julia",
+                "name": "julia"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    126,
+                    297
+                ]
+            },
+            "parameters": {},
+            "title": "Julia step",
+            "uuid": "3790c6d2-c9a4-4e50-a6ba-f23bff205bba"
+        },
+        "6591ed19-1fe3-4daa-a757-1eabafdfcf66": {
+            "environment": "7f563f63-fe10-480b-ab7b-eb078f78c0d9",
+            "file_path": "My R Notebook.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "R",
+                "name": "r"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    128.5,
+                    148
+                ]
+            },
+            "parameters": {},
+            "title": "R step",
+            "uuid": "6591ed19-1fe3-4daa-a757-1eabafdfcf66"
+        },
+        "919bb309-5622-42a7-9811-d8da14380cc5": {
+            "environment": "35b7a27e-8065-45af-9d5e-376eff5aaf60",
+            "file_path": "My Python Notebook.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    126,
+                    439
+                ]
+            },
+            "parameters": {},
+            "title": "Python step",
+            "uuid": "919bb309-5622-42a7-9811-d8da14380cc5"
+        }
+    },
+    "uuid": "aa2a55dd-4489-4c30-88df-ce1294588eca",
+    "version": "1.0.0"
+}
